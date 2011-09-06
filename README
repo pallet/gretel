@@ -1,0 +1,13 @@
+# gretel
+
+Sane error handling for clojure.
+
+## Usage
+
+TBD
+
+## License
+
+Copyright (C) 2011 Antoni Batchelli & Hugo Duncan
+
+Distributed under the Eclipse Public License, the same as Clojure.
